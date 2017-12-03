@@ -13,7 +13,7 @@ Cloud computing Assignment repository. We were required to create a docker swarm
 - cd Assignment2-Docker-helpers
 - python Bash.py
 
- -follow Bash.py instructions
+- Follow Bash.py instructions
 
 ## External ip
 http://35.205.181.127:8080/
